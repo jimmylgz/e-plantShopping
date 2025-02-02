@@ -1,7 +1,9 @@
 /* Reset some default styles */
 body, h1, ul {
+    display: flex;
     margin: 0;
     padding: 0;
+    justify-content: center;
 }
 
 /* Set a background color */
